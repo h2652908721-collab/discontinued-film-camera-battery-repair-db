@@ -1,0 +1,70 @@
+{
+  "brand": "VintageGear",
+  "tagline": "The discontinued camera repair and maintenance guide",
+  "hero_headline": "Your vintage camera deserves a clear maintenance roadmap",
+  "hero_sub": "Every discontinued camera model has a complete solution: replacement battery options, film recommendations, troubleshooting guides, and repair channels—all in one place",
+  "pains": [
+    "Battery discontinued with no alternatives? Spend hours searching forums for vague answers that may not even work",
+    "Confused about film and exposure settings? Constantly digging through old threads, terrified of wasting a roll",
+    "Camera broken and can't find a reliable repair technician? Pricing is completely opaque and unpredictable"
+  ],
+  "features": [
+    {
+      "title": "Battery replacement solutions",
+      "desc": "Every camera model paired with compatible battery alternatives, adapters, and where to buy them"
+    },
+    {
+      "title": "Film configuration guide",
+      "desc": "Film stock recommendations and exposure compensation settings—easy enough for beginners"
+    },
+    {
+      "title": "Troubleshooting database",
+      "desc": "Common faults, self-repair difficulty ratings, and which technicians to contact if needed"
+    },
+    {
+      "title": "Repair technician directory",
+      "desc": "Trusted independent technicians nationwide, mail-in repair shops, and typical repair cost ranges"
+    }
+  ],
+  "how": [
+    {
+      "step": "Search your camera model",
+      "desc": "Filter by brand, era, and mount type—find your model's complete guide in seconds"
+    },
+    {
+      "step": "View everything on one page",
+      "desc": "Batteries, film, common issues, repair options—no forum hunting required"
+    },
+    {
+      "step": "Take action immediately",
+      "desc": "Order batteries, select film, arrange repairs—we've included all the links"
+    }
+  ],
+  "proof": "Manually collecting and verifying repair data by camera model. Early users will directly shape development priorities",
+  "cta": "Join the beta",
+  "cta_sub": "First users shape the feature roadmap directly—completely free",
+  "faq": [
+    {
+      "q": "How accurate is the data?",
+      "a": "Manually collected and verified from repair technicians, photography forums, and manufacturer documentation—updated by model"
+    },
+    {
+      "q": "How do I find my camera?",
+      "a": "Browse by brand, decade, and mount type, or search the model directly"
+    },
+    {
+      "q": "Are the repair technicians real people?",
+      "a": "All real independent technicians and small shops. Users contact them directly—we're just the information platform"
+    }
+  ],
+  "seo_pages": [
+    "[Camera model] battery replacement and adapter options",
+    "[Camera model] common fault repair guide",
+    "[Camera model] recommended film and exposure settings",
+    "Discontinued camera repair technician directory",
+    "Vintage camera battery compatibility reference",
+    "[Brand] [era] camera model repair resources"
+  ],
+  "disclaimer": "Repair information provided for reference only. Consult a professional technician for complex repairs. Users assume all risk for self-repair",
+  "lang": "en"
+}
